@@ -1,0 +1,8 @@
+Cvičení 3: Vytvořte registrační formulář
+
+Použijte textový vstup pro celé jméno.
+Použijte vstup typu email.
+Použijte vstup typu heslo pro heslo a potvrzení hesla.
+Přidejte rozbalovací seznam pro pohlaví.
+Přidejte radio tlačítka pro věkovou skupinu.
+Přidejte submit tlačítko.

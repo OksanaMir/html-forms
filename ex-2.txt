@@ -1,0 +1,6 @@
+Cvičení 2: Vytvořte formulář zpětné vazby
+
+Použijte textový vstup pro jméno.
+Použijte vstup typu email pro email.
+Přidejte textovou oblast pro zpětnou vazbu.
+Přidejte submit tlačítko.
