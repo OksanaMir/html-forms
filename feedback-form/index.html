@@ -10,14 +10,16 @@
 
 <body>
     <form action="/submit-feedback" method="post">
-        <!-- Create a label and input for name -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
 
-        <!-- Create a label and input for email -->
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
 
-        <!-- Create a label and textarea for feedback -->
+        <label for="feedback">Feedback:</label>
+        <textarea id="feedback" name="feedback" required></textarea>
 
-        <!-- Create a submit button -->
-
+        <button type="submit">Submit</button>
     </form>
 </body>
 
